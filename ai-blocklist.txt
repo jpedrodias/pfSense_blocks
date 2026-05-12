@@ -1,0 +1,9 @@
+0.0.0.0 chat.openai.com
+0.0.0.0 openai.com
+0.0.0.0 claude.ai
+0.0.0.0 anthropic.com
+0.0.0.0 gemini.google.com
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 perplexity.ai
+0.0.0.0 poe.com
+0.0.0.0 character.ai
