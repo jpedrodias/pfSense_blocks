@@ -1,5 +1,4 @@
 # OpenAI / ChatGPT
-0.0.0.0 chatgpt.pt
 0.0.0.0 chatgpt.com
 0.0.0.0 openai.com
 0.0.0.0 chat.openai.com
